@@ -1,0 +1,142 @@
+db.movies.insertMany([
+  {
+    "Movie Name": "Miss Jerry",
+    "IMDB Rating": 5.9,
+    "Genre": "Romance",
+    "Positive Feedback": 154,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "The Story of the Kelly Gang",
+    "IMDB Rating": 6.1,
+    "Genre": "Biography",
+    "Positive Feedback": 589,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "From the Manger to the Cross",
+    "IMDB Rating": 5.7,
+    "Genre": "Drama",
+    "Positive Feedback": 484,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "Madame DuBarry",
+    "IMDB Rating": 6.8,
+    "Genre": "Romance",
+    "Positive Feedback": 753,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "Richard III",
+    "IMDB Rating": 5.5,
+    "Genre": "Drama",
+    "Positive Feedback": 225,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "Atlantis",
+    "IMDB Rating": 6.6,
+    "Genre": "Drama",
+    "Positive Feedback": 331,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "Traffic in Souls",
+    "IMDB Rating": 6,
+    "Genre": "Crime",
+    "Positive Feedback": 552,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "The Avenging Conscience",
+    "IMDB Rating": 6.4,
+    "Genre": "Horror",
+    "Positive Feedback": 1105,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "The Bargain",
+    "IMDB Rating": 6.5,
+    "Genre": "Western",
+    "Positive Feedback": 144,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "Cabiria",
+    "IMDB Rating": 7.1,
+    "Genre": "Drama",
+    "Positive Feedback": 3073,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "Cinderella",
+    "IMDB Rating": 6,
+    "Genre": "Fantasy",
+    "Positive Feedback": 929,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "A Florida Enchantment",
+    "IMDB Rating": 5.8,
+    "Genre": "Comedy",
+    "Positive Feedback": 202,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "His Majesty, the Scarecrow of Oz",
+    "IMDB Rating": 5.2,
+    "Genre": "Adventure",
+    "Positive Feedback": 415,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "Hypocrites",
+    "IMDB Rating": 6.6,
+    "Genre": "Drama",
+    "Positive Feedback": 456,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "In the Land of the Head Hunters",
+    "IMDB Rating": 5.8,
+    "Genre": "Drama",
+    "Positive Feedback": 402,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "Judith of Bethulia",
+    "IMDB Rating": 6.1,
+    "Genre": "Drama",
+    "Positive Feedback": 1239,
+    "Referable": "FALSE"
+  },
+  {
+    "Movie Name": "The Patchwork Girl of Oz",
+    "IMDB Rating": 5.5,
+    "Genre": "Fantasy",
+    "Positive Feedback": 382,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "The Perils of Pauline",
+    "IMDB Rating": 6.3,
+    "Genre": "Drama",
+    "Positive Feedback": 939,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "The Squaw Man",
+    "IMDB Rating": 5.7,
+    "Genre": "Romance",
+    "Positive Feedback": 879,
+    "Referable": "TRUE"
+  },
+  {
+    "Movie Name": "Uncle Tom's Cabin",
+    "IMDB Rating": 5.3,
+    "Genre": "Drama",
+    "Positive Feedback": 112,
+    "Referable": "FALSE"
+  }
+])
